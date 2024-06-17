@@ -48,24 +48,38 @@
 
 <br/>
 
+<br/>
 
 
 
 🌟 Tools:-
 
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70" alt="Vs code"/>
+<table><div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="70" alt="Vs code"/>
  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="70" alt="Git "/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="70" alt="Git "/>
    <img width="20" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="70" alt="gitlab" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="70" alt="gitlab" />
   <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="70" alt="Canva"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="70" alt="Canva"/>
       <img width="20" />   
    
 
+
+
+
+
+
+
+
+
   </div>  
+</table>
+
+<br/>
+<br/>
+
   
 Competitive Programming: Data Structures, Algorithms, Problem-Solving.
 Tools & Platforms: Git, GitHub, VS Code
@@ -76,21 +90,24 @@ Tools & Platforms: Git, GitHub, VS Code
 <!--Project Name: A brief description of what this project does.-->
 
 🚀  Competitive Programming:-
-<div class="left">
-<table>
+<div align="left" >
+<table >
   <tr><td>
-LeetCode:https://leetcode.com/u/Nikhil_kumar111/
+   <p>Link&nbsp;of &nbsp;  my&nbsp; <a href="https://leetcode.com/u/Nikhil_kumar111/" > &nbsp;  LeetCode    </a>&nbsp;    profile   </p>   
     </td>
+
+
+
+       
 </tr>
   <tr>
     <td>
-Geekforgeeks:https://www.geeksforgeeks.org/user/nikhilkumabuju/
+     <p>Link&nbsp;of  my&nbsp;  <a href="https://www.geeksforgeeks.org/user/nikhilkumabuju/">&nbsp;Geekforgeeks  </a>&nbsp;profile</p>  
      </td>
  </tr>
 </table>
 </div>
 <div>
-Connect me:-
 
 </div>
 
