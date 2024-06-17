@@ -7,7 +7,7 @@
 
 
 <br/>
-<h2 align="left">Hi 👋! My name is Nikhil  and I'm a Web developer </h2>
+<h2 align="left">Hi 👋! My name is Nikhil   </h2>
 
 :->Hi there! I'm Nikhil, a passionate web developer and competitive programming enthusiast.
 
@@ -15,7 +15,7 @@
      complex problems through code.
 
 
- ##Skills:-
+ 🌟Skills:-
 
 
 
@@ -47,7 +47,13 @@
 </div>
 
 <br/>
+
+
+
+
 🌟 Tools:-
+
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70" alt="Vs code"/>
  <img width="20" />
@@ -55,15 +61,19 @@
    <img width="20" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="70" alt="gitlab" />
   <img width="20" />
-          
-  </div>               
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="70" alt="Canva"/>
+      <img width="20" />   
+   
+
+  </div>  
+  
 Competitive Programming: Data Structures, Algorithms, Problem-Solving.
 Tools & Platforms: Git, GitHub, VS Code
 
-💼 Projects: Check out some of my recent work:
+<!--💼 Projects: Check out some of my recent work:-->
 
-Project Name: A brief description of what this project does.
-Project Name: A brief description of what this project does.
+<!--Project Name: A brief description of what this project does.-->
+<!--Project Name: A brief description of what this project does.-->
 
 🚀  Competitive Programming:-
 <div class="left">
@@ -110,7 +120,7 @@ Connect me:-
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
@@ -124,7 +134,7 @@ Connect me:-
 <p><a href="https://www.linkedin.com/in/nikhil-kumar-37b182253/">Linkdin</a></p>
 
   
-Portfolio: Your Portfolio
+<!--Portfolio: Your Portfolio/-->
 
 
 ###
