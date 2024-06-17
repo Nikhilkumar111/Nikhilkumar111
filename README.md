@@ -1,5 +1,34 @@
 <h2 align="left">Hi 👋! My name is Nikhil  and I'm a Web developer </h2>
 
+Hi there! I'm [Your Name], a passionate web developer and competitive programming enthusiast. I specialize in building user-friendly, responsive web applications and enjoy solving complex problems through code.
+
+🌟 Skills:
+
+Front-end: HTML, CSS, JavaScript, React
+Back-end: Node.js, Express
+Competitive Programming: Data Structures, Algorithms, Problem-Solving.
+Tools & Platforms: Git, GitHub, VS Code
+🚀 Currently Learning:
+
+TypeScript
+Advanced CSS techniques
+💼 Projects: Check out some of my recent work:
+
+Project Name: A brief description of what this project does.
+Project Name: A brief description of what this project does.
+
+
+🏆 Competitive Programming:
+
+LeetCode:https://leetcode.com/u/Nikhil_kumar111/
+
+Geekforgeeks:https://www.geeksforgeeks.org/user/nikhilkumabuju/
+
+🔗 Connect with me:
+LinkedIn:https://www.linkedin.com/in/nikhil-kumar-37b182253/
+Portfolio: Your Portfolio
+
+
 ###
 
 <div align="center">
