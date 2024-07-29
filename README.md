@@ -9,13 +9,13 @@
 <br/>
 <h2 align="left">Hi 👋! My name is Nikhil   </h2>
 
-:->Hi there! I'm Nikhil, a passionate web developer and competitive programming enthusiast.
+   Hi there! I'm Nikhil, a passionate web developer and competitive programming enthusiast.
 
-:->I specialize in building user-friendly, responsive web applications and enjoy solving 
+ I specialize in building user-friendly, responsive web applications and enjoy solving 
      complex problems through code.
 
 
- 🌟Skills:-
+ 🌟Skills-
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-🌟 Tools:-
+🌟 Tools-
 
 
 <table><div align="left">
