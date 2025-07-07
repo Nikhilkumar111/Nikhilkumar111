@@ -1,163 +1,88 @@
+<h1 align="center">Hi there 👋, I'm Nikhil!</h1>
 
+<p align="center">🚀 Passionate Web Developer | 💻 Competitive Programmer | 🎯 Problem Solver</p>
 
+---
 
+### 🌟 About Me
 
+Hi there! I'm **Nikhil**, a dedicated **web developer** with a love for building responsive, dynamic applications. I'm also a **competitive programming enthusiast** who enjoys solving complex problems.
 
+- 🧠 Skilled in JavaScript, React, Tailwind CSS, TypeScript, Node.js
+- 🔧 Experienced with modern tools like Git, GitHub, VS Code, GitLab
+- 📚 Enthusiastic learner of DSA and system design
+- 🎯 Always improving and working on exciting side projects!
 
+---
 
+### 🚀 Skills
 
-<br/>
-<h2 align="left">Hi 👋! My name is Nikhil   </h2>
-
-   Hi there! I'm Nikhil, a passionate web developer and competitive programming enthusiast.
-
- I specialize in building user-friendly, responsive web applications and enjoy solving 
-     complex problems through code.
-
-
- 🌟Skills-
-
-
-
-<br/>
-<table>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
-  <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
-  <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="70" alt="tailwind.css" />
-   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
-  <img width="20" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="typescript logo"  />
-  <img width="20" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="70" alt="Node.js"/>
-   <img width="20"/>
-</table>
-
-
-
-
-
-
+<div align="center">
   
-</div>
-
-<br/>
-
-<br/>
-
-
-
-🌟 Tools-
-
-
-<table><div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="70" alt="Vs code"/>
- <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="70" alt="Git "/>
-   <img width="20" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="70" alt="gitlab" />
-  <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="70" alt="Canva"/>
-      <img width="20" />   
-   
-
-
-
-
-
-
-
-
-
-  </div>  
-</table>
-
-<br/>
-<br/>
-
-  
-Competitive Programming: Data Structures, Algorithms, Problem-Solving.
-Tools & Platforms: Git, GitHub, VS Code
-
-<!--💼 Projects: Check out some of my recent work:-->
-
-<!--Project Name: A brief description of what this project does.-->
-<!--Project Name: A brief description of what this project does.-->
-
-🚀  Competitive Programming:-
-<div align="left" >
-<table >
-  <tr><td>
-   <p>Link&nbsp;of &nbsp;  my&nbsp; <a href="https://leetcode.com/u/Nikhil_kumar111/" > &nbsp;  LeetCode    </a>&nbsp;    profile   </p>   
-    </td>
-
-
-
-       
-</tr>
-  <tr>
-    <td>
-     <p>Link&nbsp;of  my&nbsp;  <a href="https://www.geeksforgeeks.org/user/nikhilkumabuju/">&nbsp;Geekforgeeks  </a>&nbsp;profile</p>  
-     </td>
- </tr>
-</table>
-</div>
-<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS"/>
 
 </div>
 
-###
+---
 
+### 🛠️ Tools & Platforms
 
+<div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="GitLab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva"/>
 
-<table align="center">
-  
-<tr> 
-  <td><img src="https://github-readme-stats.vercel.app/api?username=Nikhilkumar111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/></td>
-  <td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilkumar111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></td>
-   </tr>
-</table>
-<!--     our personal quote and profile visitor count-->
-   <table align="center" >
-  <td>
-   <P>Take your time in building your new version ! </P>
-  </td>
-    <td><image src="https://komarev.com/ghpvc/?username=Nikhilkumar111&label=PROFILE+VIEWS&base=50"/></td>
- <table/>
+</div>
 
+---
 
+### 🧠 Competitive Programming
 
+I love problem-solving and constantly practice on different platforms.
 
-###
+- 🔗 [LeetCode Profile](https://leetcode.com/u/Nikhil_kumar111/)
+- 🔗 [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/nikhilkumabuju/)
 
-<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+---
 
-###
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilkumar111&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilkumar111&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150"/>
+</p>
 
+---
 
+### 🔥 GitHub Activity Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</p>
 
+---
 
+### 📫 Connect With Me
 
-### Social media:-
-<p><a href="https://www.linkedin.com/in/nikhil-kumar-37b182253/">Linkdin</a></p>
+- 👔 [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-37b182253/)
+- 📌 *More coming soon! Portfolio in progress...*
 
-  
-<!--Portfolio: Your Portfolio/-->
+---
 
+### 💡 Quote
 
-###
+> 🧘 “Take your time in building your new version.”
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhilkumar111&label=PROFILE+VIEWS" alt="Profile views counter"/>
+</p>
