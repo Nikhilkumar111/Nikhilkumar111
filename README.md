@@ -70,7 +70,8 @@ Hi there! I'm **Nikhil**, a dedicated **web developer** with a love for building
 ---
 
 ## 🐍 GitHub Contribution Snake
-<img src="https://raw.githubusercontent.com/Nikhilkumar111/Nikhilkumar111/output/snake.svg" alt="GitHub Snake Animation" />
+![snake gif](https://raw.githubusercontent.com/Nikhilkumar111/Nikhilkumar111/output/snake.svg)
+
 
 ---
 
