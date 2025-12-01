@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: https://github.com/Nikhilkumar111
+          github_user_name: Nikhilkumar111
           outputs: dist/snake.svg
 
       - name: Push Snake to Output Branch
